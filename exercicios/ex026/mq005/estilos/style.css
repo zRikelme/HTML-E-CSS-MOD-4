@@ -27,11 +27,12 @@ header h1 {
    padding: 10px;
    text-align: center;
    cursor: pointer;
+   
 }
 
 #symbol-menu:hover {
     background-color: black;
-    color: white;
+    color: white; 
 }
 
 
